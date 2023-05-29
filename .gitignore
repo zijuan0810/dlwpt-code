@@ -2,3 +2,5 @@
 tools
 *_old
 .ipynb_checkpoints
+/.idea
+/hf/nlp/03/test-trainer
